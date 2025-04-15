@@ -1,5 +1,3 @@
-Here’s a professional **`README.md`** file for your GitHub repository. It includes project details, setup instructions, usage, and more:
-
 ---
 
 # **QR Code Generator & Reader**  
@@ -92,10 +90,6 @@ Feel free to fork and submit PRs! Open an **issue** for bugs/feature requests.
 ---
 
 ### **Demo Screenshot**  
-*(Optional: Add a screenshot of your app here)*  
+![image](https://github.com/user-attachments/assets/bc20d973-af04-4fd5-aa64-d8b36db35c2c)
 
 ---
-
-This `README.md` is **clean, professional, and informative**, making it easy for users and contributors to understand your project.  
-
-**Would you like me to add anything else?** 😊
