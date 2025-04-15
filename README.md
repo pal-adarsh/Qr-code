@@ -27,7 +27,7 @@
 
 ### **1. Clone the Repository**  
 ```bash
-git clone https://github.com/your-username/qr-code-generator-reader.git
+git clone https://github.com/pal-adarsh/Qr-code.git
 cd qr-code-generator-reader
 ```
 
