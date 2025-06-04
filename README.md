@@ -1,9 +1,6 @@
 # **QR Code Generator & Reader**  
 *A Flask-based web application to generate and decode QR codes.*  
 
-![Demo](https://img.shields.io/badge/Demo-Available-green)  
-![Python](https://img.shields.io/badge/Python-3.x-blue)  
-![Flask](https://img.shields.io/badge/Framework-Flask-red)  
 
 ## **Features**  
 ✔ **Generate QR Codes** from text or URLs.  
